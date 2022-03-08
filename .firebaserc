@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "grads-5fb77"
+  },
+  "targets": {
+    "grads-5fb77": {
+      "hosting": {
+        "grads": [
+          "grads-5fb77"
+        ]
+      }
+    }
+  }
+}
